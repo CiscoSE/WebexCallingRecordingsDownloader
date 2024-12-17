@@ -1,4 +1,4 @@
-Simple application to collect all Webex Calling recordingIds and associated ownerEmails (hostEmails) and then download all recordings locally. This is meant to demonstrate the code logic for bulk downloading Webex Calling recordings using the REST APIs.
+Simple application to collect all Webex Calling recordingIds and associated ownerEmails (hostEmails) and then download all call recordings and transcripts for those calls locally. This is meant to demonstrate the code logic for bulk downloading Webex Calling recordings using the REST APIs.
 
 This sample is a variant of this Webex Recordings Downloader sample code:
 https://github.com/WebexSamples/WebexRecordingsDownloader
